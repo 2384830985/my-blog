@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '博客', link: '/blog/crayfish' }
+      { text: '博客', link: '/blog/vitepress-guide' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/2384830985/my-blog' }
