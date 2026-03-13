@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
-import { getLatestPosts } from './posts.data.mjs'
 
 export default defineConfig({
   base: '/my-blog/',
   title: "我的博客",
   description: "个人技术博客",
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: '首页', link: '/my-blog/' },
