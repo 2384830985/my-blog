@@ -22,7 +22,10 @@
 
 ## 最新文章
 
-- [小龙虾的正确食用指南](/blog/crayfish) - 美食攻略
+- [OpenClaw - 你的个人 AI Agent 网关](/my-blog/blog/crayfish.html) - 2026-03-13
+- [VitePress 博客搭建指南](/my-blog/blog/vitepress-guide.html) - 2026-03-13
+- [Mac 开发环境配置指南](/my-blog/blog/mac-dev-setup.html) - 2026-03-13
+- [2026年3月科技大事件回顾](/my-blog/blog/today-news.html) - 2026-03-13
 
 ## 联系方式
 
