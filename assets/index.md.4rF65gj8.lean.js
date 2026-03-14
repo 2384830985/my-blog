@@ -1,0 +1,1 @@
+import{_ as l,o as e,c as t,ae as i}from"./chunks/framework.BeMCGcrk.js";const u=JSON.parse('{"title":"欢迎来到我的博客","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"};function o(s,a,n,h,d,c){return e(),t("div",null,[...a[0]||(a[0]=[i("",14)])])}const m=l(r,[["render",o]]);export{u as __pageData,m as default};
