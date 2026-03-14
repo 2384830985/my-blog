@@ -22,6 +22,7 @@
 
 ## 最新文章
 
+- [2026年3月14日科技要闻](/blog/today-news.html) - 2026-03-14
 - [阿里巴巴：一个被低估的AI巨头正在崛起](/blog/alibaba-bullish.html) - 2026-03-13
 - [OpenClaw - 你的个人 AI Agent 网关](/blog/crayfish.html) - 2026-03-13
 - [VitePress 博客搭建指南](/blog/vitepress-guide.html) - 2026-03-13
