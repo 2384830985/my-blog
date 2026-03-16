@@ -22,6 +22,7 @@
 
 ## 最新文章
 
+- [诸葛的小龙虾 - OpenClaw 配置自动备份工具](/blog/clone-lobster.html) - 2026-03-16
 - [2026年3月16日科技要闻](/blog/today-news.html) - 2026-03-16
 - [2026年3月14日科技要闻](/blog/today-news.html) - 2026-03-14
 - [阿里巴巴：一个被低估的AI巨头正在崛起](/blog/alibaba-bullish.html) - 2026-03-13
