@@ -29,3 +29,28 @@ features:
 | 文章 | 日期 | 标签 |
 |------|------|------|
 | [美团（03690.HK）深度分析：股价腰斩后，是否迎来布局时机？](./blog/meituan-03690hk-analysis.md) | 2026-03-18 | 股票、港股、投资分析 |
+
+### 技术与生活
+
+- [📊 2026年3月18日 每日持仓早报（实时数据版）](/blog/daily-holding-2026-03-18.html) - 2026-03-18
+- [2026年政府工作报告股票分析报告：三大投资主线解读](/blog/gov-report-stock-analysis-2026-03-18.html) - 2026-03-18
+- [2026年3月18日科技巨头行情速览：阿里发布"悟空"AI平台、美团春招开启、小米签约苏炳添](/blog/tech-stocks-morning-2026-03-18.html) - 2026-03-18
+- [2026年3月18日科技股分析：波动中的机会](/blog/tech-stocks-2026-03-18.html) - 2026-03-18
+- [2026年3月科技股深度分析：阿里巴巴、美团、小米](/blog/tech-stocks-mar2026.html) - 2026-03-17
+- [小米集团(01810.HK)深度分析报告：看多信号显现](/blog/xiaomi-2026-analysis.html) - 2026-03-16
+- [诸葛的小龙虾 - OpenClaw 配置自动备份工具](/blog/clone-lobster.html) - 2026-03-16
+- [2026年3月16日科技要闻](/blog/today-news.html) - 2026-03-16
+- [2026年3月14日科技要闻](/blog/today-news.html) - 2026-03-14
+- [阿里巴巴：一个被低估的AI巨头正在崛起](/blog/alibaba-bullish.html) - 2026-03-13
+- [OpenClaw - 你的个人 AI Agent 网关](/blog/crayfish.html) - 2026-03-13
+- [VitePress 博客搭建指南](/blog/vitepress-guide.html) - 2026-03-13
+- [Mac 开发环境配置指南](/blog/mac-dev-setup.html) - 2026-03-13
+- [2026年3月科技大事件回顾](/blog/today-news.html) - 2026-03-13
+
+## 联系方式
+
+- GitHub: [2384830985](https://github.com/2384830985)
+
+---
+
+欢迎来到我的技术世界 🚀
